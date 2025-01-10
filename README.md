@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate Software Engineer/MERN Stack Developer from India</h3>
 
-<img  alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJyZGFvbWYyZDc1MTI5MWJmZDl3amkyN2syM3V4dGhiMW5ybjR6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJyZGFvbWYyZDc1MTI5MWJmZDl3amkyN2syM3V4dGhiMW5ybjR6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjackkumarmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjackkumarmaurya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjackkumarmaurya" alt="abhishekjackkumarmaurya" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
