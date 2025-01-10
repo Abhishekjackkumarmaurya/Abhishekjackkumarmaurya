@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Abhishekjackkumarmaurya/Abhishekjackkumarmaurya/blob/main/profilePoster%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate Software Engineer/MERN Stack Developer from India</h3>
 
