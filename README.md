@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Abhishekjackkumarmaurya/Abhishekjackkumarmaurya/blob/main/linkedinPoster.png)
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate Software Engineer/MERN Stack Developer from India</h3>
 
