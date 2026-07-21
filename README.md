@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhishekjackkumarmaurya/Abhishekjackkumarmaurya/blob/main/linkedinPoster.png)
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
-<h3 align="center">A passionate Software Engineer/MERN Stack Developer from India</h3>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJyZGFvbWYyZDc1MTI5MWJmZDl3amkyN2syM3V4dGhiMW5ybjR6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjackkumarmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjackkumarmaurya" /> </p>
