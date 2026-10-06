@@ -8,9 +8,9 @@
 
 Building secure backend services and clean React interfaces. 800+ DSA problems solved in Java.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-b06416233/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiostream.h@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qDKIowzdOnW1HEUmtZXS1yMN6gdJ7rp4/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1q9tYxdsRiNa0N4aLFuUEKiz5MARL_OYv/view)
 
 </div>
 
@@ -18,7 +18,7 @@ Building secure backend services and clean React interfaces. 800+ DSA problems s
 
 ## 👨‍💻 About Me
 
-- ☕ Java Developer with 1+ year of experience, focused on **Spring Boot, Spring MVC, Spring Data JPA, Hibernate and MySQL**
+- ☕ Java Developer with around 1 year of experience, focused on **Spring Boot, Spring MVC, Spring Data JPA, Hibernate and MySQL**
 - 🔐 Build **JWT-secured RESTful APIs** with role-based authorization, validation, pagination and centralized exception handling
 - ⚛️ Pair backend services with **React.js** frontends for full-stack applications
 - 🧠 Solved **800+ Data Structures & Algorithms problems in Java**
@@ -58,7 +58,7 @@ Building secure backend services and clean React interfaces. 800+ DSA problems s
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 💼 Job Portal & Recruitment Management System
 `Java` `Spring Boot` `Spring Data JPA` `MySQL` `JWT` `React.js`
@@ -81,7 +81,7 @@ Building secure backend services and clean React interfaces. 800+ DSA problems s
 ## 💼 Experience
 
 - **Java Developer**, ANR Software Pvt. Ltd. (Noida) · Feb 2026 – Jul 2026
-- **Java Developer**, CepiaLabs (Remote) · Aug 2025 – Jan 2026
+- **Java Developer**, CepiaLabs Pvt Ltd (Remote) · Aug 2025 – Jan 2026
 
 ---
 
