@@ -1,37 +1,112 @@
-![logo](https://github.com/Abhishekjackkumarmaurya/Abhishekjackkumarmaurya/blob/main/linkedinPoster.png)
-<h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
-<h3 align="center">A passionate Software Engineer.</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJyZGFvbWYyZDc1MTI5MWJmZDl3amkyN2syM3V4dGhiMW5ybjR6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjackkumarmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjackkumarmaurya" /> </p>
+<img src="https://raw.githubusercontent.com/Abhishekjackkumarmaurya/Abhishekjackkumarmaurya/main/linkedinPoster.png" alt="Abhishek Kumar banner" width="100%" />
 
+# Hi 👋, I'm Abhishek Kumar
 
-- 🌱 I’m currently learning **React.js**
+### Java Full Stack Developer | Spring Boot · REST APIs · React.js
 
-- 💬 Ask me about **Java, MERN Stack, C Through C++, Python**
+Building secure backend services and clean React interfaces. 800+ DSA problems solved in Java.
 
-- 📫 How to reach me **abhiostream.h@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiostream.h@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qDKIowzdOnW1HEUmtZXS1yMN6gdJ7rp4/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qDKIowzdOnW1HEUmtZXS1yMN6gdJ7rp4/view?usp=sharing](https://drive.google.com/file/d/1qDKIowzdOnW1HEUmtZXS1yMN6gdJ7rp4/view?usp=sharing)
+</div>
 
-- ⚡ Fun fact **I am little bit funny😊**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kumar" height="30" width="40" /></a>
-<a href="https://fb.com/techabhimaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techabhimaurya" height="30" width="40" /></a>
-<a href="https://instagram.com/techabhimaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techabhimaurya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhi_124_kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_124_kr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ak841406shahark1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ak841406shahark1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abhishek kumar" height="30" width="40" /></a>
-<a href="https://discord.gg/abhishekkumar2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhishekkumar2803" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- ☕ Java Developer with 1+ year of experience, focused on **Spring Boot, Spring MVC, Spring Data JPA, Hibernate and MySQL**
+- 🔐 Build **JWT-secured RESTful APIs** with role-based authorization, validation, pagination and centralized exception handling
+- ⚛️ Pair backend services with **React.js** frontends for full-stack applications
+- 🧠 Solved **800+ Data Structures & Algorithms problems in Java**
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning (CGPA 8.61)
+- 🌱 Currently learning **Docker**
+- 📫 Reach me at **abhiostream.h@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjackkumarmaurya&show_icons=true&locale=en&layout=compact" alt="abhishekjackkumarmaurya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjackkumarmaurya&show_icons=true&locale=en" alt="abhishekjackkumarmaurya" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjackkumarmaurya&" alt="abhishekjackkumarmaurya" /></p>
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_(Learning)-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Job Portal & Recruitment Management System
+`Java` `Spring Boot` `Spring Data JPA` `MySQL` `JWT` `React.js`
+
+- RESTful job portal with JWT authentication and role-based authorization for candidates and recruiters
+- Job posting, search/filtering, pagination and application-tracking workflows
+- Centralized exception handling and request validation across all API endpoints
+
+### 📦 Inventory & Order Management System
+`Java` `Spring Boot` `JPA/Hibernate` `MySQL` `React.js`
+
+- Full-stack app with CRUD operations, stock tracking and order status workflows
+- Relational schema (products, categories, orders) designed with JPA/Hibernate
+- React.js dashboard showing stock levels and order summaries via REST endpoints
+
+<!-- Add a "Repo" link under each project once you decide which repositories to pin. -->
+
+---
+
+## 💼 Experience
+
+- **Java Developer**, ANR Software Pvt. Ltd. (Noida) · Feb 2026 – Jul 2026
+- **Java Developer**, CepiaLabs (Remote) · Aug 2025 – Jan 2026
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekjackkumarmaurya&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjackkumarmaurya&layout=compact&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=abhishekjackkumarmaurya&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🧩 Coding Profiles
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-abhi__124__kr-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhi_124_kr)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ak841406shahark1-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/@ak841406shahark1)
+
+---
+
+<div align="center">
+
+⭐ Open to Java Developer and Full Stack Developer opportunities. Let's connect!
+
+</div>
