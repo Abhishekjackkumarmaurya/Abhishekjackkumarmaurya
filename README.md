@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhishekjackkumarmaurya/Abhishekjackkumarmaurya/main/linkedinPoster.png" alt="Abhishek Kumar banner" width="100%" />
+<img src="https://github.com/Abhishekjackkumarmaurya/Abhishekjackkumarmaurya/blob/main/profilePoster%20(2).jpg" alt="Abhishek Kumar banner" width="100%" />
 
 # Hi 👋, I'm Abhishek Kumar
 
